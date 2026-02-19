@@ -1,0 +1,7 @@
+venv
+.idea
+.DS_Store
+videos/*.mp4
+batch_*
+json_files.txt
+*:Zone.Identifier
